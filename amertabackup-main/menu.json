@@ -1,0 +1,24 @@
+[
+    {
+      "nama": "Sop Iga Sapi",
+      "deskripsi": "Sop Iga Sapi Amerta, kuah gurih dengan iga empuk, rempah melimpah, hangat nikmat.",
+      "harga": "Rp 70.000",
+      "kategori": "sup",
+      "gambar": "images/f1.png"
+    },
+    {
+      "nama": "Delicious Burger",
+      "deskripsi": "Burger lezat dengan daging tebal dan keju meleleh.",
+      "harga": "Rp 45.000",
+      "kategori": "nasi",
+      "gambar": "images/f2.png"
+    },
+    {
+      "nama": "Delicious Pizza",
+      "deskripsi": "Pizza dengan topping basil segar dan keju mozzarella.",
+      "harga": "Rp 60.000",
+      "kategori": "penutup",
+      "gambar": "images/f3.png"
+    }
+  ]
+  
